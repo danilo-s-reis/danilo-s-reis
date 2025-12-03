@@ -20,10 +20,11 @@ Atualmente estou cursando uma graduação em Análise e Desenvolvimento de Siste
 
 Durante 5 meses, participei do Programa de Bolsas da Compass UOL, um programa intensivo de estágio em Engenharia e Análise de Dados na AWS. Através de uma trilha de aprendizado estruturada em metodologia Scrum, completei cursos e desafios práticos. No projeto final, aplicando os conhecimentos adquiridos ao longo do programa, utilizei ferramentas da AWS para criar um fluxo de pipeline de dados real. Todo o planejamento do PB está detalhado em anexo. Maiores detalhes estão localizados no meu perfil no [Linkedin](https://www.linkedin.com/in/danilo-souza-reis-ab61761b6/) e no [repositório](https://github.com/danilo-s-reis/aws-cloud-data-engineering). 
 
+<!---
 ## Linguagens  
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-s-reis&layout=compact)](https://github.com/danilo-s-reis)
 
-<!---
+
 Danilo-Reiss/Danilo-Reiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
