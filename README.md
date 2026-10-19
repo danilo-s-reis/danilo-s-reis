@@ -9,9 +9,8 @@
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)](https://github.com/danilo-s-reis)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/danilo-s-reis)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](https://github.com/danilo-s-reis)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/danilo-s-reis)
-[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/danilo-s-reis)
-
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](https://github.com/danilo-s-reis)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](https://github.com/danilo-s-reis)
 ## Sobre Mim  
 ***🚀 Análise e Desenvolvimento de Sistemas | Análise e Engenharia de Dados | Cloud Computing 🚀***  
   
@@ -29,15 +28,11 @@ Stack:
 
 Competências:
 
-• Arquitetura Medalhão e Lakehouse
-
-• Pipelines ETL/ELT idempotentes
-
-• Modelagem Dimensional (Star Schema) e One Big Table (OBT)
-
-• Qualidade de Dados (Data Contracts, Expectations, Quarentena)
-
-• Governança de Dados (Metadados, Catálogo de Dados, Data Lineage)  
+* Arquitetura Medalhão e Lakehouse
+* Pipelines ETL/ELT idempotentes
+* Modelagem Dimensional (Star Schema) e One Big Table (OBT)
+* Qualidade de Dados (Data Contracts, Expectations, Quarentena)
+* Governança de Dados (Metadados, Catálogo de Dados, Data Lineage)  
 
 **💼 Experiências profissionais:**  
 
