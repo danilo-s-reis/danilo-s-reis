@@ -6,15 +6,38 @@
 ## Tecnologias  
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/danilo-s-reis)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/danilo-s-reis)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)](https://github.com/danilo-s-reis)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/danilo-s-reis)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](https://github.com/danilo-s-reis)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/danilo-s-reis)
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/danilo-s-reis)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)](https://github.com/danilo-s-reis)
 
 ## Sobre Mim  
 ***🚀 Análise e Desenvolvimento de Sistemas | Análise e Engenharia de Dados | Cloud Computing 🚀***  
   
-Atualmente estou cursando uma graduação em Análise e Desenvolvimento de Sistemas e desenvolvendo competências para atuar na área de dados. Tenho experiência com Linux (Shell Script), Python (Pandas, Numpy, Matplotlib), SQL (PostgreSQL, SQLite, MySQL, MySQL Workbench), Spark com PySpark, Docker (Kubernetes), com algumas ferramentas da AWS, como AWS EC2, AWS Lambda, AWS Glue, AWS Athena e AWS Quicksight e da Microsoft Power Platform, como Power Apps, Power Automate e Power BI.  
+Estudante de Análise e Desenvolvimento de Sistemas, desenvolvendo competências em Data Engineering e Analytics, com foco na construção de pipelines de dados confiáveis, governados e prontos para consumo por áreas de negócio e agentes de IA.
+
+Stack:  
+* Linguagens: Python (Pandas, NumPy, Matplotlib, Seaborn, Streamlit), SQL
+* Bancos de dados: PostgreSQL, MySQL (Workbench), SQLite
+* Processamento distribuído: Apache Spark (PySpark, Spark SQL)
+* Databricks: Delta Lake, Unity Catalog, AI/BI Genie
+* AWS: EC2, Lambda, Glue, Athena, QuickSight
+* Containers: Docker, Kubernetes
+* Web Scraping: BeautifulSoup, Selenium
+* Microsoft Power Platform: Power BI, Power Apps, Power Automate
+
+Competências:
+
+• Arquitetura Medalhão e Lakehouse
+
+• Pipelines ETL/ELT idempotentes
+
+• Modelagem Dimensional (Star Schema) e One Big Table (OBT)
+
+• Qualidade de Dados (Data Contracts, Expectations, Quarentena)
+
+• Governança de Dados (Metadados, Catálogo de Dados, Data Lineage)  
 
 **💼 Experiências profissionais:**  
 
